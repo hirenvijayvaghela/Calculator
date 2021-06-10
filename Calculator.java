@@ -14,7 +14,7 @@ public class Calculator {
 	private JFrame frame;
 	private JTextField result_textField;
 
-	
+	System.out.println("Hello World");
 	double first,second,result;
 	String operator,answer;
 	/**
